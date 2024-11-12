@@ -5,7 +5,7 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Vehicles
+namespace Vehicles.Classes.SuperClasses
 {
 
     public abstract class Engine
@@ -17,11 +17,13 @@ namespace Vehicles
 
         public Engine(int horsePower, FuelType fuelType)
         {
-            this.HorsePower = horsePower;
-            this.FuelType1 = fuelType;
+            HorsePower = horsePower;
+            FuelType1 = fuelType;
+        }
+
+        public void Start()
+        {
+            Running = true;
         }
     }
-
-
-
 }

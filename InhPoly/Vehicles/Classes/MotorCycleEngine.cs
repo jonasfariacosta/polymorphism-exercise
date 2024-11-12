@@ -4,8 +4,9 @@ using System.Linq;
 using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
+using Vehicles.Classes.SuperClasses;
 
-namespace Vehicles
+namespace Vehicles.Classes
 {
     public class MotorCycleEngine : Engine
 
@@ -13,10 +14,9 @@ namespace Vehicles
         public MotorCycleEngine(int horsepower, FuelType aFueltype)
             : base(horsepower, aFueltype)
         {
-            HorsePower = 200;
-            FuelType1 = FuelType.Leaded;
+
         }
     }
-    
-    
+
+
 }

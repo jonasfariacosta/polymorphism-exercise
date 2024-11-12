@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\polymorphism-exercise\\InhPoly\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{241D3A0E-5B08-4277-B57A-C73BB279DFFC}|Vehicles\\Vehicles.csproj|c:\\users\\jonas\\documents\\northcoders\\weekb\\polymorphism-exercise\\inhpoly\\vehicles\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{241D3A0E-5B08-4277-B57A-C73BB279DFFC}|Vehicles\\Vehicles.csproj|solutionrelative:vehicles\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{241D3A0E-5B08-4277-B57A-C73BB279DFFC}|Vehicles\\Vehicles.csproj|c:\\users\\jonas\\documents\\northcoders\\weekb\\polymorphism-exercise\\inhpoly\\vehicles\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{241D3A0E-5B08-4277-B57A-C73BB279DFFC}|Vehicles\\Vehicles.csproj|solutionrelative:vehicles\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{241D3A0E-5B08-4277-B57A-C73BB279DFFC}|Vehicles\\Vehicles.csproj|c:\\users\\jonas\\documents\\northcoders\\weekb\\polymorphism-exercise\\inhpoly\\vehicles\\motorcycleengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{241D3A0E-5B08-4277-B57A-C73BB279DFFC}|Vehicles\\Vehicles.csproj|solutionrelative:vehicles\\motorcycleengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{241D3A0E-5B08-4277-B57A-C73BB279DFFC}|Vehicles\\Vehicles.csproj|c:\\users\\jonas\\documents\\northcoders\\weekb\\polymorphism-exercise\\inhpoly\\vehicles\\carengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{241D3A0E-5B08-4277-B57A-C73BB279DFFC}|Vehicles\\Vehicles.csproj|solutionrelative:vehicles\\carengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{241D3A0E-5B08-4277-B57A-C73BB279DFFC}|Vehicles\\Vehicles.csproj|c:\\users\\jonas\\documents\\northcoders\\weekb\\polymorphism-exercise\\inhpoly\\vehicles\\codefile1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{241D3A0E-5B08-4277-B57A-C73BB279DFFC}|Vehicles\\Vehicles.csproj|solutionrelative:vehicles\\codefile1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{241D3A0E-5B08-4277-B57A-C73BB279DFFC}|Vehicles\\Vehicles.csproj|c:\\users\\jonas\\documents\\northcoders\\weekb\\polymorphism-exercise\\inhpoly\\vehicles\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{241D3A0E-5B08-4277-B57A-C73BB279DFFC}|Vehicles\\Vehicles.csproj|solutionrelative:vehicles\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{241D3A0E-5B08-4277-B57A-C73BB279DFFC}|Vehicles\\Vehicles.csproj|c:\\users\\jonas\\documents\\northcoders\\weekb\\polymorphism-exercise\\inhpoly\\vehicles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{241D3A0E-5B08-4277-B57A-C73BB279DFFC}|Vehicles\\Vehicles.csproj|solutionrelative:vehicles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{241D3A0E-5B08-4277-B57A-C73BB279DFFC}|Vehicles\\Vehicles.csproj|c:\\users\\jonas\\documents\\northcoders\\weekb\\polymorphism-exercise\\inhpoly\\vehicles\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{241D3A0E-5B08-4277-B57A-C73BB279DFFC}|Vehicles\\Vehicles.csproj|solutionrelative:vehicles\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{241D3A0E-5B08-4277-B57A-C73BB279DFFC}|Vehicles\\Vehicles.csproj|c:\\users\\jonas\\documents\\northcoders\\weekb\\polymorphism-exercise\\inhpoly\\vehicles\\classes\\motorcycleengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241D3A0E-5B08-4277-B57A-C73BB279DFFC}|Vehicles\\Vehicles.csproj|solutionrelative:vehicles\\classes\\motorcycleengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241D3A0E-5B08-4277-B57A-C73BB279DFFC}|Vehicles\\Vehicles.csproj|c:\\users\\jonas\\documents\\northcoders\\weekb\\polymorphism-exercise\\inhpoly\\vehicles\\classes\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241D3A0E-5B08-4277-B57A-C73BB279DFFC}|Vehicles\\Vehicles.csproj|solutionrelative:vehicles\\classes\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241D3A0E-5B08-4277-B57A-C73BB279DFFC}|Vehicles\\Vehicles.csproj|c:\\users\\jonas\\documents\\northcoders\\weekb\\polymorphism-exercise\\inhpoly\\vehicles\\classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241D3A0E-5B08-4277-B57A-C73BB279DFFC}|Vehicles\\Vehicles.csproj|solutionrelative:vehicles\\classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241D3A0E-5B08-4277-B57A-C73BB279DFFC}|Vehicles\\Vehicles.csproj|c:\\users\\jonas\\documents\\northcoders\\weekb\\polymorphism-exercise\\inhpoly\\vehicles\\classes\\carengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241D3A0E-5B08-4277-B57A-C73BB279DFFC}|Vehicles\\Vehicles.csproj|solutionrelative:vehicles\\classes\\carengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241D3A0E-5B08-4277-B57A-C73BB279DFFC}|Vehicles\\Vehicles.csproj|c:\\users\\jonas\\documents\\northcoders\\weekb\\polymorphism-exercise\\inhpoly\\vehicles\\classes\\superclasses\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241D3A0E-5B08-4277-B57A-C73BB279DFFC}|Vehicles\\Vehicles.csproj|solutionrelative:vehicles\\classes\\superclasses\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241D3A0E-5B08-4277-B57A-C73BB279DFFC}|Vehicles\\Vehicles.csproj|c:\\users\\jonas\\documents\\northcoders\\weekb\\polymorphism-exercise\\inhpoly\\vehicles\\classes\\superclasses\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241D3A0E-5B08-4277-B57A-C73BB279DFFC}|Vehicles\\Vehicles.csproj|solutionrelative:vehicles\\classes\\superclasses\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241D3A0E-5B08-4277-B57A-C73BB279DFFC}|Vehicles\\Vehicles.csproj|c:\\users\\jonas\\documents\\northcoders\\weekb\\polymorphism-exercise\\inhpoly\\vehicles\\enums\\codefile1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241D3A0E-5B08-4277-B57A-C73BB279DFFC}|Vehicles\\Vehicles.csproj|solutionrelative:vehicles\\enums\\codefile1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,108 +42,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MotorCycleEngine.cs",
-              "DocumentMoniker": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\polymorphism-exercise\\InhPoly\\Vehicles\\MotorCycleEngine.cs",
-              "RelativeDocumentMoniker": "Vehicles\\MotorCycleEngine.cs",
-              "ToolTip": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\polymorphism-exercise\\InhPoly\\Vehicles\\MotorCycleEngine.cs",
-              "RelativeToolTip": "Vehicles\\MotorCycleEngine.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\polymorphism-exercise\\InhPoly\\Vehicles\\Classes\\MotorCycleEngine.cs",
+              "RelativeDocumentMoniker": "Vehicles\\Classes\\MotorCycleEngine.cs",
+              "ToolTip": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\polymorphism-exercise\\InhPoly\\Vehicles\\Classes\\MotorCycleEngine.cs",
+              "RelativeToolTip": "Vehicles\\Classes\\MotorCycleEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T11:43:11.415Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CarEngine.cs",
-              "DocumentMoniker": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\polymorphism-exercise\\InhPoly\\Vehicles\\CarEngine.cs",
-              "RelativeDocumentMoniker": "Vehicles\\CarEngine.cs",
-              "ToolTip": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\polymorphism-exercise\\InhPoly\\Vehicles\\CarEngine.cs",
-              "RelativeToolTip": "Vehicles\\CarEngine.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\polymorphism-exercise\\InhPoly\\Vehicles\\Classes\\CarEngine.cs",
+              "RelativeDocumentMoniker": "Vehicles\\Classes\\CarEngine.cs",
+              "ToolTip": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\polymorphism-exercise\\InhPoly\\Vehicles\\Classes\\CarEngine.cs",
+              "RelativeToolTip": "Vehicles\\Classes\\CarEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T11:42:16.19Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "CodeFile1.cs",
-              "DocumentMoniker": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\polymorphism-exercise\\InhPoly\\Vehicles\\CodeFile1.cs",
-              "RelativeDocumentMoniker": "Vehicles\\CodeFile1.cs",
-              "ToolTip": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\polymorphism-exercise\\InhPoly\\Vehicles\\CodeFile1.cs",
-              "RelativeToolTip": "Vehicles\\CodeFile1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\polymorphism-exercise\\InhPoly\\Vehicles\\Enums\\CodeFile1.cs",
+              "RelativeDocumentMoniker": "Vehicles\\Enums\\CodeFile1.cs",
+              "ToolTip": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\polymorphism-exercise\\InhPoly\\Vehicles\\Enums\\CodeFile1.cs",
+              "RelativeToolTip": "Vehicles\\Enums\\CodeFile1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T10:48:02.99Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Engine.cs",
-              "DocumentMoniker": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\polymorphism-exercise\\InhPoly\\Vehicles\\Engine.cs",
-              "RelativeDocumentMoniker": "Vehicles\\Engine.cs",
-              "ToolTip": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\polymorphism-exercise\\InhPoly\\Vehicles\\Engine.cs",
-              "RelativeToolTip": "Vehicles\\Engine.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\polymorphism-exercise\\InhPoly\\Vehicles\\Classes\\SuperClasses\\Engine.cs",
+              "RelativeDocumentMoniker": "Vehicles\\Classes\\SuperClasses\\Engine.cs",
+              "ToolTip": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\polymorphism-exercise\\InhPoly\\Vehicles\\Classes\\SuperClasses\\Engine.cs",
+              "RelativeToolTip": "Vehicles\\Classes\\SuperClasses\\Engine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T10:42:39.733Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Motorcycle.cs",
-              "DocumentMoniker": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\polymorphism-exercise\\InhPoly\\Vehicles\\Motorcycle.cs",
-              "RelativeDocumentMoniker": "Vehicles\\Motorcycle.cs",
-              "ToolTip": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\polymorphism-exercise\\InhPoly\\Vehicles\\Motorcycle.cs",
-              "RelativeToolTip": "Vehicles\\Motorcycle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\polymorphism-exercise\\InhPoly\\Vehicles\\Classes\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "Vehicles\\Classes\\Motorcycle.cs",
+              "ToolTip": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\polymorphism-exercise\\InhPoly\\Vehicles\\Classes\\Motorcycle.cs",
+              "RelativeToolTip": "Vehicles\\Classes\\Motorcycle.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T10:41:49.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\polymorphism-exercise\\InhPoly\\Vehicles\\Car.cs",
-              "RelativeDocumentMoniker": "Vehicles\\Car.cs",
-              "ToolTip": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\polymorphism-exercise\\InhPoly\\Vehicles\\Car.cs",
-              "RelativeToolTip": "Vehicles\\Car.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T10:41:11.235Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Vehicle.cs",
-              "DocumentMoniker": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\polymorphism-exercise\\InhPoly\\Vehicles\\Vehicle.cs",
-              "RelativeDocumentMoniker": "Vehicles\\Vehicle.cs",
-              "ToolTip": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\polymorphism-exercise\\InhPoly\\Vehicles\\Vehicle.cs",
-              "RelativeToolTip": "Vehicles\\Vehicle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\polymorphism-exercise\\InhPoly\\Vehicles\\Classes\\SuperClasses\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicles\\Classes\\SuperClasses\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\polymorphism-exercise\\InhPoly\\Vehicles\\Classes\\SuperClasses\\Vehicle.cs",
+              "RelativeToolTip": "Vehicles\\Classes\\SuperClasses\\Vehicle.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwBsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T10:38:41.539Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\polymorphism-exercise\\InhPoly\\Vehicles\\Classes\\Car.cs",
+              "RelativeDocumentMoniker": "Vehicles\\Classes\\Car.cs",
+              "ToolTip": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\polymorphism-exercise\\InhPoly\\Vehicles\\Classes\\Car.cs",
+              "RelativeToolTip": "Vehicles\\Classes\\Car.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:41:11.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\polymorphism-exercise\\InhPoly\\Vehicles\\Program.cs",
               "RelativeDocumentMoniker": "Vehicles\\Program.cs",
               "ToolTip": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\polymorphism-exercise\\InhPoly\\Vehicles\\Program.cs",
               "RelativeToolTip": "Vehicles\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T10:31:42.503Z",
               "EditorCaption": ""
