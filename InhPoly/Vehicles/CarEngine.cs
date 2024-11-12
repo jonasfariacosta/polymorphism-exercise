@@ -7,7 +7,8 @@ using System.Threading.Tasks;
 namespace Vehicles
 {
     internal class CarEngine : Engine
-    {public CarEngine(int horsepower,FuelType aFueltype)
+    {
+        public CarEngine(int horsepower,FuelType aFueltype)
             :base(horsepower,aFueltype)
         {
             HorsePower = 100;

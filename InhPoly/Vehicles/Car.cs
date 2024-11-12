@@ -7,9 +7,12 @@ using System.Threading.Tasks;
 namespace Vehicles
 {
     internal class Car : Vehicle
-    {public Car(string make,string model)
-            : base (make, model,Engine engineType)
-        { }
+    {
+        public Car(string make,string model)
+            : base (make, model, new CarEngine(100, FuelType.Unleaded))
+        {
+
+        }
 
         
 

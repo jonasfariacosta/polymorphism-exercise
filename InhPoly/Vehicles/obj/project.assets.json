@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Jonas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\NC\\intro-week\\vehicles\\polymorphism-exercise\\InhPoly\\Vehicles\\Vehicles.csproj",
+      "projectUniqueName": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\polymorphism-exercise\\InhPoly\\Vehicles\\Vehicles.csproj",
       "projectName": "Vehicles",
-      "projectPath": "D:\\NC\\intro-week\\vehicles\\polymorphism-exercise\\InhPoly\\Vehicles\\Vehicles.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\NC\\intro-week\\vehicles\\polymorphism-exercise\\InhPoly\\Vehicles\\obj\\",
+      "projectPath": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\polymorphism-exercise\\InhPoly\\Vehicles\\Vehicles.csproj",
+      "packagesPath": "C:\\Users\\Jonas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jonas\\Documents\\northcoders\\weekB\\polymorphism-exercise\\InhPoly\\Vehicles\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jonas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
