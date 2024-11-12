@@ -1,0 +1,15 @@
+C:\Users\Jonas\Documents\northcoders\weekB\polymorphism-exercise\InhPoly\Vehicles\bin\Debug\net8.0\Vehicles.exe
+C:\Users\Jonas\Documents\northcoders\weekB\polymorphism-exercise\InhPoly\Vehicles\bin\Debug\net8.0\Vehicles.deps.json
+C:\Users\Jonas\Documents\northcoders\weekB\polymorphism-exercise\InhPoly\Vehicles\bin\Debug\net8.0\Vehicles.runtimeconfig.json
+C:\Users\Jonas\Documents\northcoders\weekB\polymorphism-exercise\InhPoly\Vehicles\bin\Debug\net8.0\Vehicles.dll
+C:\Users\Jonas\Documents\northcoders\weekB\polymorphism-exercise\InhPoly\Vehicles\bin\Debug\net8.0\Vehicles.pdb
+C:\Users\Jonas\Documents\northcoders\weekB\polymorphism-exercise\InhPoly\Vehicles\obj\Debug\net8.0\Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas\Documents\northcoders\weekB\polymorphism-exercise\InhPoly\Vehicles\obj\Debug\net8.0\Vehicles.AssemblyInfoInputs.cache
+C:\Users\Jonas\Documents\northcoders\weekB\polymorphism-exercise\InhPoly\Vehicles\obj\Debug\net8.0\Vehicles.AssemblyInfo.cs
+C:\Users\Jonas\Documents\northcoders\weekB\polymorphism-exercise\InhPoly\Vehicles\obj\Debug\net8.0\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Documents\northcoders\weekB\polymorphism-exercise\InhPoly\Vehicles\obj\Debug\net8.0\Vehicles.sourcelink.json
+C:\Users\Jonas\Documents\northcoders\weekB\polymorphism-exercise\InhPoly\Vehicles\obj\Debug\net8.0\Vehicles.dll
+C:\Users\Jonas\Documents\northcoders\weekB\polymorphism-exercise\InhPoly\Vehicles\obj\Debug\net8.0\refint\Vehicles.dll
+C:\Users\Jonas\Documents\northcoders\weekB\polymorphism-exercise\InhPoly\Vehicles\obj\Debug\net8.0\Vehicles.pdb
+C:\Users\Jonas\Documents\northcoders\weekB\polymorphism-exercise\InhPoly\Vehicles\obj\Debug\net8.0\Vehicles.genruntimeconfig.cache
+C:\Users\Jonas\Documents\northcoders\weekB\polymorphism-exercise\InhPoly\Vehicles\obj\Debug\net8.0\ref\Vehicles.dll
